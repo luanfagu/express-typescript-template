@@ -1,0 +1,20 @@
+{
+  "name": "express-typescript-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "Luan Fagundes <luanfagu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "@types/express": "^4.17.8",
+    "@types/mongoose": "^5.10.0",
+    "nodemon": "^2.0.6"
+  }
+}
